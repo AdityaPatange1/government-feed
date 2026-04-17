@@ -1,0 +1,4 @@
+ollama
+rich
+argparse
+python-dotenv
